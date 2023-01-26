@@ -1,0 +1,19 @@
+{
+  "name": "MyCalendar",
+  "version": "1.0.0",
+  "description": "A calendar",
+  "main": "main.ts",
+  "repository": "https://github.com/Korah06/Electron-MyCalendar.git",
+  "author": "Korah06",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "electron": "^22.1.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
